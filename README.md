@@ -4,7 +4,7 @@
 
 ## Justificación de Repositorio
 
-Este repositorio fue creado con el proposito de profundizar todo el conocimiento adquirido a travez del Tecnólogo en Análisis y Desarrollo de Software impartido por el SENA.
+Este repositorio fue creado con el proposito de profundizar todo el conocimiento adquirido a través del Tecnólogo en Análisis y Desarrollo de Software impartido por el SENA.
 
 El objetivo de estas prácticas es transferir los conocimientos teóricos adquiridos por medio del SENA y de ChatGPT AI al entorno laboral, asegurando que cada aprendizaje se traduzca en soluciones aplicables a proyectos reales.
 
