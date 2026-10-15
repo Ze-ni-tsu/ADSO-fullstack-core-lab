@@ -1,6 +1,6 @@
 # ADSO-fullstack-core-lab
 
-*Laboratorio centralizado autodidacta y monorepo de más de 2,000 horas de desarrollo práctico.*
+*Laboratorio centralizado autodidacta y monorepo de desarrollo práctico autodidacta ADSO.*
 
 * -- Teoría creada por Claude AI. --
 * -- Educación guiada por ChatGPT. --
