@@ -1,6 +1,10 @@
-# Meyer Romero, David Alejandro
+# ADSO-fullstack-core-lab
 
-**Rol objetivo:** Tecnólogo Desarrollador de Software
+*Laboratorio centralizado autodidacta y monorepo de más de 2,000 horas de desarrollo práctico.*
+
+* -- Teoría creada por Claude AI. --
+* -- Educación guiada por ChatGPT. --
+* -- Prácticas independientes sin intervención de IA. --
 
 ## Justificación de Repositorio
 
