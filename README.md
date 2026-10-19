@@ -62,4 +62,4 @@ Los íconos fueron tomados de:
 
 Licencia MIT.
 
-Para Mayor información de click aquí: [LICENSE](/LICENSE).
+Para mayor información de click aquí: [LICENSE](/LICENSE).
