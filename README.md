@@ -43,7 +43,7 @@ Tecnologías aprendidas:
 
 | Tema | Requisito | Lenguaje | Estado |
 | :--: | :--: | :--: | :--: |
-| 0.1 | Cómo funciona un computador e Internet | En fase de preparación | Pendiente de inicio |
+| 0.1 | fundamentos-computacion | Markdown | Pendiente de inicio |
 
 ## Referencias
 
