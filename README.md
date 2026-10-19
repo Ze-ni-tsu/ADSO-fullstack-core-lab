@@ -44,6 +44,9 @@ Tecnologías aprendidas:
 | Tema | Requisito | Lenguaje | Estado |
 | :--: | :--: | :--: | :--: |
 | 0.1 | [fundamentos-computacion](/NIVEL%200/0.1%20fundamentos-computacion/) | Markdown | Finalizado |
+| 0.2 | En Proceso | En Proceso | En Proceso |
+| 0.3 | Pendiente de inicio | Pendiente de inicio | Pendiente de inicio |
+| 0.4 | Pendiente de inicio | Pendiente de inicio | Pendiente de inicio |
 
 ## Referencias
 
