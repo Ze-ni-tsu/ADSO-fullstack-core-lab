@@ -43,7 +43,7 @@ Tecnologías aprendidas:
 
 | Tema | Requisito | Lenguaje | Estado |
 | :--: | :--: | :--: | :--: |
-| 0.1 | [fundamentos-computacion](/NIVEL%200/0.1%20fundamentos-computacion/README.md) | Markdown | Pendiente de inicio |
+| 0.1 | [fundamentos-computacion](/NIVEL%200/0.1%20fundamentos-computacion/) | Markdown | Pendiente de inicio |
 
 ## Referencias
 
