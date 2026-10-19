@@ -52,7 +52,7 @@ Con este proyecto se busca comprender mejor, el funcionamiento de una computador
 ### HTTP y HTTPS
 
 1. Protocolo de comunicación utilizado para intercambiar recursos e información entre clientes y servidores. Mayormente usado en navegadores Web.
-2. HTTP/1.1 y HTTP/2 utilizan TCP, mientras que HTTP/3 utiliza QUIC sobre UDP para comunicarse, y obtiene códigos cómo 2xx, 3xx, 4xx o 5xx que determina el resultado de la solicitud que se haya realizado.
+2. HTTP/1.1 y HTTP/2 utilizan TCP, mientras que HTTP/3 utiliza QUIC sobre UDP para comunicarse y las respuestas HTTP incluyen códigos de estado como 2xx, 3xx, 4xx y 5xx.
 3. HTTPS es la conexión protegida de HTTP que utiliza TLS cómo protocolo de protección.
 
 ### Modelo cliente-servidor
@@ -97,11 +97,11 @@ peticiones finalizada
 ## 🔎 Observaciones y aprendizajes
 
 * Por medio de los diferentes ejercicios y la teoría se entiende que:
-  1. Los computadores o máquinas usan únicamente el binario para leer, entender, procesar, renderizar y realizar un sin fin de tareas mientras que los humanos usamos alfabetos y números decimales para lo mismo.
+  1. Las computadoras o máquinas logran procesar cualquier tipo de información internamente gracias a sistemas digitales que podemos representar con números binarios **0** y **1**.
   2. Se puede hacer un diagnóstico parcial de la calidad de red y la conexión de un servidor, por medio de comandos a través de la terminal.
   3. Se evidencia los diferentes aplicativos que un equipo puede correr en primer o segundo plano y su consumo, a través de herramientas cómo *Administrador de tareas* de Windows.
-  4. Se ubica y conoce todo lo que un navegador puede procesar a través de la cabecera de HTTP para la obtención y posterior renderización de una URL, gracias a herramientas cómo *DevTools -> Network (Red)*. Entre estas:
-        * Request URL: <https://example.com/>
+  4. Se ubica y conoce todo lo que un navegador puede procesar a través de la información de la petición y respuesta HTTP para la obtención y posterior renderización de una URL, gracias a herramientas cómo *DevTools -> Network (Red)*. Entre estas:
+        * Request URL: [example.com](https://example.com/)
         * Method: GET
         * Status Code: 304
         * Type: document
@@ -116,5 +116,5 @@ peticiones finalizada
 
 ## 📈 Estado del proyecto
 
-* Versión: **2.0**
+* Versión: **3.0**
 * Estado: **Finalizado**.
